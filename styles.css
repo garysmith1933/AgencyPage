@@ -6,3 +6,21 @@ body {
     font-weight: 600;
     font-style: normal;
 }
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  width:30%
+}
+
+#navigation {
+  height: 56px;
+  width: 100%;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#logo_text {
+  margin-left: 2rem;
+}
