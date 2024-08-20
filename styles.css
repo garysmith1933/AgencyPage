@@ -49,5 +49,12 @@ header {
   padding: 1rem;
   font-family: Fraunces;
   font-size: 15px;
+  font-weight: 700px;
+}
+
+#contact:hover {
+  color:white;
+  background-color: hsl(210, 4%, 67%);
+  cursor: pointer;
 }
 
