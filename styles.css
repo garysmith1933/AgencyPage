@@ -24,3 +24,12 @@ nav {
 #logo_text {
   margin-left: 2rem;
 }
+
+header {
+  height: 800px;
+  width: 100%;
+  background-image: url("images/desktop/image-header.jpg");
+  background-position: center 90%;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
