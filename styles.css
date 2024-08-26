@@ -109,3 +109,9 @@ header {
 .gallery-image {
   width: 25% 
 }
+
+#footer {
+  background-color: #90D4C6;
+  width: 100%;
+  height: 350px;
+}
