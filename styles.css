@@ -98,3 +98,14 @@ header {
   height: 600px;
   width:50%;
 }
+
+#testimonials {
+  display:flex;
+  justify-content: center;
+  width:100%;
+  height:800px;
+}
+
+.gallery-image {
+  width: 25% 
+}
