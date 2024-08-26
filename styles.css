@@ -84,17 +84,17 @@ header {
   margin-top: 9rem;
 }
 
-#transform {
+#transform, #standout {
   display:flex;
   justify-content: center;
 }
 
-#transform-div {
+#transform-div, #standout-div {
   width:50%;
   height: 600px;
 }
 
-#transform-image {
+#transform-image, #standout-image {
   height: 600px;
   width:50%;
 }
