@@ -39,6 +39,9 @@ header {
   background-position: center 90%;
   background-repeat: no-repeat;
   background-size: 100% auto;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 #contact {
@@ -58,3 +61,25 @@ header {
   cursor: pointer;
 }
 
+
+#intro {
+  position:static;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#intro-text {
+  position: relative;
+  top: 70px;
+  font-size: 56px;
+  font-family: Fraunces;
+  margin: 0 auto;
+  color:white;
+  letter-spacing: 10px;
+}
+
+#intro-arrow {
+  margin-top: 9rem;
+}
