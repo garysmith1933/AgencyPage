@@ -30,6 +30,7 @@ nav {
 #logo {
   margin-left: 2rem;
   margin-top: 2rem;
+  color:white;
 }
 
 header {
@@ -133,4 +134,12 @@ header {
   align-items: center;
   width: 100%;
   gap: 25px;
+}
+
+.footer-nav-links {
+  color: #2C7566;
+}
+
+#footer-logo {
+  filter: invert(38%) sepia(48%) saturate(495%) hue-rotate(118deg) brightness(61%) contrast(88%);
 }
