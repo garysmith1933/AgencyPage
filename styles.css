@@ -83,3 +83,18 @@ header {
 #intro-arrow {
   margin-top: 9rem;
 }
+
+#transform {
+  display:flex;
+  justify-content: center;
+}
+
+#transform-div {
+  width:50%;
+  height: 600px;
+}
+
+#transform-image {
+  height: 600px;
+  width:50%;
+}
